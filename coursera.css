@@ -1,0 +1,35 @@
+h1 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 34px;
+}
+
+.row > div > div {
+    border: 2px solid black;
+    width: 95px;
+    height: 27px;
+    display: top ;
+    background-color: rosybrown;
+    text-align: center;
+    margin-left: 327px;
+} 
+.row > div {
+    margin-bottom: 15px;
+    margin: 5px;
+    border: 1px solid black ;
+    width: 425px;
+    height: 200px;
+    float: left;
+    background-color: gray;
+    font-size: 18px
+        
+}
+#ch{
+    background-color: coral;
+}
+#br{
+    background-color: skyblue;
+}
+#sh{
+    background-color: cadetblue;
+}
